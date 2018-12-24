@@ -1,0 +1,201 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 5.625rem;
+  color: #66BFBF;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-size: 2rem;
+  font-weight: normal;
+  color: #66BFBF;
+  padding-bottom: 10px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr{
+  border-style: dotted none none;
+  border-width: 8px;
+  width: 5%;
+  border-color:#EAF6F6;
+  margin: 100px auto;
+}
+
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #eaf6f6;
+}
+
+p{
+  line-height: 2;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  margin: 0;
+  position: relative;
+  padding-top: 100px;
+}
+
+.intro{
+  width:90%;
+  margin:auto;
+}
+
+.middle-container{
+  margin: 100px 0;
+  line-height: 2;
+}
+
+.bottom-container {
+  background-color:#66BFBF;
+  padding: 50px 0 20px;
+
+}
+
+.skills{
+  margin-top: 50px;
+  line-height: 2;
+}
+
+.web {
+  font-weight: normal;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 250px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.profile-image{
+  width:50%;
+  border-radius:100%;
+}
+
+.profile{
+  width:50%;
+  margin:50px auto 50px auto;
+}
+
+.skill-row{
+  width:50%;
+  margin:120px auto;
+  text-align: left;
+}
+
+.design-icon{
+  width: 25%;
+  float:left;
+  margin-right: 50px;
+}
+
+.develop-icon{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.html-icon{
+  width:25%;
+}
+
+.css-icon{
+  width:25%;
+}
+
+.boostrap-icon{
+  width:25%;
+}
+
+.javaScript-icon{
+  width:25%;
+}
+
+.wordpress-icon{
+  width:25%;
+}
+
+.tools{
+  width: 50%;
+  margin:auto;
+  padding-bottom: 90px;
+}
+
+.tool-html{
+  width:20%;
+  float: left;
+}
+
+.tool-css{
+  width:20%;
+  float:left;
+}
+
+.tool-boostrap{
+  width:20%;
+  float:left;
+}
+
+.tool-javaScript{
+  width:20%;
+  float: left;
+}
+
+
+.tool-wordpress{
+  width:20%;
+  float: left;
+}
+
+.btn {
+  -webkit-border-radius: 17;
+  -moz-border-radius: 17;
+  border-radius: 17px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  background: #66BFBF;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  line-height: 4;
+}
+
+.btn:hover {
+  background: #6ec9c9;
+  text-decoration: none;
+}
+
+.footer-link{
+  color: #11999E;
+}
+
+.copyright{
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}

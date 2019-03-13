@@ -1,5 +1,7 @@
 # One-Page-Resume
-My One Page Resume with only html and css
+My One Page Resume with html and css
+
+Here is a direct link: https://haguillard.github.io/One-Page-Resume/
 
 ![](images/aboutme1.PNG)
 ![](images/aboutme2.PNG)

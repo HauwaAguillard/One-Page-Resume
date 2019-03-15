@@ -3,6 +3,8 @@ My One Page Resume with html and css
 
 Here is a direct link: https://haguillard.github.io/One-Page-Resume/
 
+![](images/OnePageResume.PNG)
+
 ![](images/aboutme1.PNG)
 ![](images/aboutme2.PNG)
 ![](images/aboutme3.PNG)

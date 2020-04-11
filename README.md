@@ -1,7 +1,7 @@
 # One-Page-Resume
 My One Page Resume with html and css
 
-Here is a direct link: https://haguillard.github.io/One-Page-Resume/
+Here is a direct link: https://hauwaaguillard.github.io/One-Page-Resume/
 
 ![](images/OnePageResume.PNG)
 
